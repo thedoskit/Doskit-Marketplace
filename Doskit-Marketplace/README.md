@@ -1,35 +1,49 @@
-## Getting Started
+**PROJECT TITLE**
+Doskit NFT Marketplace
 
-Create a project using this example:
+**PROJECT DESCRIPTION** 
+Doskit NFT Marketplace is an online platform for buying and selling unique digital assets. It allows users to browse and purchase NFTs, including art and collectibles. The marketplace is built on the principles of transparency and security, ensuring all transactions are recorded on the blockchain for immutability and traceability. Additionally, it offers a variety of tools for creators to mint and manage their own assets.
 
-```bash
-npx thirdweb create --template next-typescript-starter
-```
+**LIVE SITE URL**
+https://doskit-nft-marketplace.vercel.app/
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+**PROJECT AUTHOR**
+Kazeem Dosunmu
 
-On `pages/_app.tsx`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
+**TECHNICAL STACK**
+React
+Solidity
+Ethereum Blockchain
+Smart Contracts
+Web3.js
 
-### Deploy to IPFS
+**KEY FEATURES**
+Browse and purchase unique digital assets
+Secure and transparent transactions recorded on the blockchain
+Tools for creators to mint and manage their own assets
+User-friendly interface for easy browsing and purchasing
 
-Deploy a copy of your application to IPFS using the following command:
+**INSTALLATION AND RUNNING**
+Make sure you have Node.js and npm installed on your machine. You can download Node.js here.
+Clone the repository to your local machine using 'git clone https://github.com/thedoskit/Doskit-Marketplace'
+Navigate to the project directory using cd
+Install all necessary dependencies by running npm install
+Start the development server by running npm run dev
+Open a web browser and navigate to http://localhost:3000 to view the app
 
-```bash
-yarn deploy
-```
+**USAGE** To use the app, simply navigate to the website link provided above and start browsing and purchasing unique NFTs. Users can search for specific NFTs, view NFT details, and complete transactions securely and transparently on the blockchain.
 
-## Learn More
+**CONTRIBUTING** 
+We welcome contributions from the community. To contribute to the project, please fork the repository, create a new branch for the changes you want to make, commit your changes and submit a pull request to the original repository.
 
-To learn more about thirdweb and Next.js, take a look at the following resources:
+**DEVELOPED AND DEPLOYED** 
+Developed on Vs code Deployed on (insert deployment platform here)
 
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb TypeScript Documentation](https://docs.thirdweb.com/typescript) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com) - check our guides and development resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+**LICENSE**
+This project is licensed under the Grandida License.
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
+**ACKNOWLEDGMENT** 
+Hat tip to anyone whose advise was used as inspiration.
 
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+**NOTE** 
+This readme is written with the assumption that you are familiar with the technologies and libraries used in this project. If you are not familiar with them, it is recommended that you take some time to familiarize yourself with them before diving into the project.
