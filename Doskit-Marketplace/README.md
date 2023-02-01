@@ -5,7 +5,7 @@ Doskit NFT Marketplace
 Doskit NFT Marketplace is an online platform for buying and selling unique digital assets. It allows users to browse and purchase NFTs, including art and collectibles. The marketplace is built on the principles of transparency and security, ensuring all transactions are recorded on the blockchain for immutability and traceability. Additionally, it offers a variety of tools for creators to mint and manage their own assets.
 
 **LIVE SITE URL**
-https://doskit-nft-marketplace.vercel.app/
+https://doskit-nftmarketplace.vercel.app/
 
 **PROJECT AUTHOR**
 Kazeem Dosunmu
