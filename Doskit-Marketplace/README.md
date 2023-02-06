@@ -7,6 +7,9 @@ Doskit NFT Marketplace is an online platform for buying and selling unique digit
 **LIVE SITE URL**
 https://doskit-nftmarketplace.vercel.app/
 
+**SMARTCONTRACT URL**
+https://thirdweb.com/goerli/0x768d81eae341456decC2eE3CCA7186DcA2520DC2
+
 **PROJECT AUTHOR**
 Kazeem Dosunmu
 
